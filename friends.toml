@@ -42,3 +42,9 @@ name = "YinMo19's Blog"
 description = "Rust, ARM ASM, and Mac."
 avatar = "https://blog.yinmo19.top/avatar_hu_c2ee574778e617fe.png"
 url = "https://blog.yinmo19.top"
+
+[IcyDesert]
+name = "冰沙小站"
+url = "https://icyds.net/"
+avatar = "https://icyds.net/icon.png"
+description = "计算机和《我的世界》生电爱好者"
